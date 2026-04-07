@@ -1,0 +1,184 @@
+{
+  "headerdob": "03/01/1999",
+  "headergender": "Male",
+  "headerinsurance": "AETNA (Self)",
+  "headerdos": "10/09/2025",
+  "headerage": 26,
+  "headervisittype": "Initial Consultation",
+  "annul_mentioned": false,
+  "vitals": {
+    "currentbmi": null,
+    "percentile": null,
+    "systbp": null,
+    "diastbp": null
+  },
+  "calendar_year_icd_cpt_codes": {
+    "06/13/2025": {
+      "icd_code_list": [
+        "A01.00",
+        "A01.2"
+      ],
+      "cpt_code_list": [
+        "30801",
+        "99306"
+      ]
+    },
+    "10/09/2025": {
+      "icd_code_list": [
+        "Z68.25",
+        "Z00.00",
+        "J04.0",
+        "K21.9",
+        "I10"
+      ],
+      "cpt_code_list": [
+        "99213",
+        "1000F",
+        "99396",
+        "99369",
+        "11111",
+        "G0442"
+      ]
+    }
+  },
+  "is_old_patient": false,
+  "last_preventive": {
+    "cpt": "99396",
+    "dos": "10/09/2025",
+    "need_preventive": false,
+    "is_year_change": false,
+    "days_ago": 0
+  },
+  "last_30days_preventive_counselling": {
+    "cpt": "",
+    "dos": "",
+    "days_ago": null
+  },
+  "last_30days_smoking_counselling": {
+    "cpt": "",
+    "dos": "",
+    "days_ago": null
+  },
+  "last_30days_obesity_counselling": {
+    "cpt": "",
+    "dos": "",
+    "days_ago": null
+  },
+  "smoking_history": {
+    "icd": "F17.201",
+    "dos": "03/25/2020",
+    "days_ago": 2024
+  },
+  "payment_history": {
+    "08/25/2025": "Self-Pay",
+    "06/18/2025": "AETNA",
+    "03/25/2024": "AETNA",
+    "09/20/2021": "AETNA",
+    "07/12/2021": "1199 LOCAL BENEFIT  FUND",
+    "07/09/2021": "1199 LOCAL BENEFIT  FUND",
+    "06/30/2021": "1199 LOCAL BENEFIT  FUND",
+    "10/31/2020": "1199 LOCAL BENEFIT  FUND",
+    "07/14/2020": "1199 LOCAL BENEFIT  FUND",
+    "09/09/2019": "1c",
+    "05/29/2019": "1c",
+    "01/25/2019": "1c",
+    "01/08/2019": "1c",
+    "08/21/2018": "American Benefit Administration Service",
+    "08/20/2018": "American Benefit Administration Service"
+  },
+  "laborders": {
+    "cpt36415": "Yes",
+    "cpt99000": "No",
+    "pylori": "No"
+  },
+  "has_preventive_rfv": false,
+  "has_prescription_medicine": true,
+  "screening": {
+    "depression": "Yes",
+    "gad7": "No",
+    "coa": "No",
+    "fallrisk": "No",
+    "tobacco": "No",
+    "socialneeds": "No",
+    "alcohol": "No",
+    "depressionscore": 8,
+    "tobaccoscore": null,
+    "alcoholscore": null,
+    "fallriskscore": null
+  },
+  "cptdates": {
+    "last99401": "",
+    "lastpreventive": "10/09/2025",
+    "lastsmoking": "04/18/2019",
+    "lastdepression": "",
+    "lastalcohol": "10/09/2025",
+    "lastobesity": "",
+    "last99214": "11/21/2018",
+    "last36415": "",
+    "bpcount": 0,
+    "visitcount": 23,
+    "lastpreventiveinsurance": "",
+    "annualdepression": "No",
+    "annualalchohol": "Yes",
+    "lastG0444insurance": "",
+    "lastG0444": "",
+    "lastG0442insurance": "",
+    "lastG0442": ""
+  },
+  "icd_cpt_code_with_modifiers": {
+    "icd_codes": [
+      {
+        "code": "K21.9",
+        "description": "Gastro-esophageal reflux disease without esophagitis"
+      },
+      {
+        "code": "I10",
+        "description": "Essential (primary) hypertension"
+      },
+      {
+        "code": "J04.0",
+        "description": "Acute laryngitis"
+      },
+      {
+        "code": "Z00.00",
+        "description": "Encntr for general adult medical exam w/o abnormal findings"
+      },
+      {
+        "code": "Z68.25",
+        "description": "Body mass index [BMI] 25.0-25.9, adult"
+      }
+    ],
+    "cpt_codes": [
+      {
+        "code": "99213",
+        "description": "updated name",
+        "modifiers": "25"
+      },
+      {
+        "code": "99369",
+        "description": "PREV VISIT EST AGE 40-64",
+        "modifiers": "AA"
+      },
+      {
+        "code": "11111",
+        "description": "test_cpds",
+        "modifiers": ""
+      },
+      {
+        "code": "99396",
+        "description": "PREV VISIT EST AGE 40-64",
+        "modifiers": ""
+      },
+      {
+        "code": "G0442",
+        "description": "Annual alcohol screen 15 min",
+        "modifiers": ""
+      },
+      {
+        "code": "1000F",
+        "description": "TOBACCO USE ASSESSED",
+        "modifiers": ""
+      }
+    ]
+  }
+}

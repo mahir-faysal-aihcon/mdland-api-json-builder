@@ -1,0 +1,746 @@
+{
+  "patient_charting": {
+    "first_name": "TEST K",
+    "last_name": "Apple",
+    "dob": "03/01/1999",
+    "sex": "M",
+    "home_phone": "718-309-1487",
+    "mobile_phone": "718-309-1487",
+    "insurance_name": "AETNA (Self)",
+    "insurance_code": "10086",
+    "dos": "2025-10-09",
+    "emr_patient_id": "1002301179",
+    "header_insurance_name": "AETNA",
+    "visit_type": "Initial Consultation",
+    "reason_for_visit": [
+      "testing"
+    ],
+    "history_of_present_illness": "testing",
+    "vital_signs": {
+      "date": "2025-10-09",
+      "bmi": "",
+      "bp": "",
+      "height": "",
+      "weight": ""
+    },
+    "active_medications": [
+      "Critikon Cuff Miscellaneous SIG: Via PEG Disp: 12",
+      "test genric name 10 MG SIG: by mouth, 1 Disp: 12 Refill: 2",
+      "test genric name 10 % SIG: 1, 2 Disp: 5 Refill: 2",
+      "test genric name 2 MG SIG: 1 Refill: 2",
+      "test genric name SIG: 1, 30 Disp: 1 Refill: 2",
+      "test genric name 1.2-2.5 % SIG: 1 Refill: 2",
+      "test genric name 10 MG SIG: Oral, 1 Refill: 2",
+      "test genric name 20-25 MG SIG: 1, 30 Disp: 30 Refill: 2",
+      "test genric name SIG: 1, 30 Disp: 2 Refill: 2",
+      "test genric name SIG: 1 Refill: 2",
+      "test genric name 5 MG SIG: by mouth, 1, 1 Disp: 1 Refill: 2",
+      "test genric name 10 % SIG: 1 Disp: 12 Refill: 2",
+      "test genric name 100 MG/5ML SIG: 1 Disp: 90 Refill: 2",
+      "test genric name 15 % SIG: Vaginal, 1 Disp: 31 Refill: 2",
+      "test genric name 125 MG SIG: by mouth, 1, 1 Disp: 2 Refill: 2",
+      "test genric name 10-325 MG SIG: Oral, 1, 5 Disp: 30 Refill: 2",
+      "test genric name 250 MG SIG: by mouth, 1, 14 Disp: 168 Refill: 2",
+      "test genric name 0.1 % SIG: Apply to Affected Area, 1, 30 Disp: 45 Refill: 2",
+      "test genric name 2.5-0.025 MG SIG: Oral, 1, 10, The patient should be cautioned regarding activitivities requireing mental alertness, such as driving or operating dangerous machinery. Disp: 30 Refill: 2",
+      "test genric name 400-32 MG SIG: Oral, 1 Disp: 3 Refill: 2",
+      "test genric name 400-32 MG SIG: Oral, 1, 1 Disp: 4 Refill: 2",
+      "test genric name 250-250-65 MG SIG: Oral, 1, 1, Note: test Disp: 2 Refill: 2",
+      "test genric name SIG: ORAL(C38288), 1 Refill: 2",
+      "test genric name 10 MG SIG: 1, 30 Disp: 60 Refill: 2",
+      "test genric name SIG: 1, 30 Disp: 50 Refill: 2",
+      "test genric name 30-1000 MG SIG: 1, 30 Disp: 30 Refill: 2",
+      "test genric name 20 SIG: PO, 1, 222, ertaa Disp: 180 Refill: 2"
+    ],
+    "lab_history": [
+      {
+        "dos": "08/02/2024",
+        "category": null,
+        "description": null,
+        "labname": "GI Histology",
+        "tests": null
+      },
+      {
+        "dos": "07/18/2024",
+        "category": null,
+        "description": null,
+        "labname": "QUANTIFERON(R)-TB GOLD, CULTURE, URINE, ROUTINE",
+        "tests": null
+      },
+      {
+        "dos": "07/18/2024",
+        "category": null,
+        "description": null,
+        "labname": "",
+        "tests": null
+      },
+      {
+        "dos": "05/09/2024",
+        "category": null,
+        "description": null,
+        "labname": "",
+        "tests": null
+      },
+      {
+        "dos": "04/04/2023",
+        "category": null,
+        "description": null,
+        "labname": "Biopsy",
+        "tests": null
+      },
+      {
+        "dos": "07/08/2020",
+        "category": null,
+        "description": null,
+        "labname": "HEMOGLOBIN",
+        "tests": null
+      },
+      {
+        "dos": "04/09/2020",
+        "category": null,
+        "description": null,
+        "labname": "HEMOGLOBIN A1C WITH EST GLUCOSE, HEMOGLOBIN A1C, DIAGNOSTIC",
+        "tests": null
+      },
+      {
+        "dos": "07/07/2019",
+        "category": null,
+        "description": null,
+        "labname": "C/V W/PAP(RFX HPV+@ASCUS>)NY",
+        "tests": null
+      },
+      {
+        "dos": "04/18/2019",
+        "category": null,
+        "description": null,
+        "labname": "Acetylcholine Receptor Ab, All, Lipid Panel With LDL/HDL Ratio, Comp. Metabolic Panel (14)",
+        "tests": null
+      },
+      {
+        "dos": "03/18/2019",
+        "category": null,
+        "description": null,
+        "labname": "BASIC METABOLIC PANEL",
+        "tests": null
+      },
+      {
+        "dos": "02/24/2019",
+        "category": null,
+        "description": null,
+        "labname": "HEMOGLOBIN A1C",
+        "tests": null
+      },
+      {
+        "dos": "12/25/2018",
+        "category": null,
+        "description": null,
+        "labname": "Beta Strep Gp A Culture",
+        "tests": null
+      },
+      {
+        "dos": "12/25/2018",
+        "category": null,
+        "description": null,
+        "labname": "CERVICAL BIOPSY, Canavan Disease Test, OnkoSight Lung Cancer Panel, ALK and ROS1 by FISH, Lynch Syndrome Custom Panel",
+        "tests": null
+      },
+      {
+        "dos": "12/25/2018",
+        "category": null,
+        "description": null,
+        "labname": "Cholesterol, Allergen Western Ragweed, IgE (w2), C/V W/PAP(RFX HPV+@ASCUS>)NY(Retired), OnkoSight Lung Cancer Panel, ALK and ROS1 by FISH",
+        "tests": null
+      },
+      {
+        "dos": "11/14/2018",
+        "category": null,
+        "description": null,
+        "labname": "Amylase, Serum",
+        "tests": null
+      },
+      {
+        "dos": "09/13/2018",
+        "category": null,
+        "description": null,
+        "labname": "CBC w/Diff, Platelet Ct., Crystal Identification, Body Fluid, C/V W/HSV W/PAP W/HPV PLUS (NY ONLY), CAMPBELL-Pregnancy, Serum (Qual)",
+        "tests": null
+      },
+      {
+        "dos": "08/10/2018",
+        "category": null,
+        "description": null,
+        "labname": "CBC, Platelet; No Differential, AChR Binding Abs, Serum, HPV Genotyping, PCR",
+        "tests": null
+      },
+      {
+        "dos": "04/09/2018",
+        "category": null,
+        "description": null,
+        "labname": "Allergen Western Ragweed, IGE (w2), 4K Prostate Score (Serum), Breast Cancer High/Moderate Risk Panel",
+        "tests": null
+      },
+      {
+        "dos": "03/26/2018",
+        "category": null,
+        "description": null,
+        "labname": "Allergen Western Ragweed, IGE (w2)",
+        "tests": null
+      },
+      {
+        "dos": "03/23/2018",
+        "category": null,
+        "description": null,
+        "labname": "CERVICAL BIOPSY, CHRONIC FATIGUE SYNDROME, Carcinoembryonic Antigen (CEA), 4K PSA rflx >3.0, C/V W/PAP(RFX HPV+@ASCUS>)NY",
+        "tests": null
+      },
+      {
+        "dos": "03/20/2018",
+        "category": null,
+        "description": null,
+        "labname": "Panel 163550",
+        "tests": null
+      },
+      {
+        "dos": "03/20/2018",
+        "category": null,
+        "description": null,
+        "labname": "Cytokine Panel 10 Plasma",
+        "tests": null
+      },
+      {
+        "dos": "03/19/2018",
+        "category": null,
+        "description": null,
+        "labname": "Tissue Transglutaminase (tTG) Antibody (IgG)",
+        "tests": null
+      },
+      {
+        "dos": "02/04/2018",
+        "category": null,
+        "description": null,
+        "labname": "",
+        "tests": null
+      },
+      {
+        "dos": "12/11/2017",
+        "category": null,
+        "description": null,
+        "labname": "Fungal Culture Blood",
+        "tests": null
+      },
+      {
+        "dos": "11/14/2017",
+        "category": null,
+        "description": null,
+        "labname": "Fungal Culture Blood",
+        "tests": null
+      },
+      {
+        "dos": "11/13/2017",
+        "category": null,
+        "description": null,
+        "labname": "Vancomycin Level Trough, Fungal Culture Blood, T-cell Clonality Panel (TCRB, TCRG), PCR (Quest)",
+        "tests": null
+      },
+      {
+        "dos": "09/14/2017",
+        "category": null,
+        "description": null,
+        "labname": "BRAF Mutation Analysis, Chromosome Analysis and FISH (Includes Interpretation)",
+        "tests": null
+      },
+      {
+        "dos": "08/29/2017",
+        "category": null,
+        "description": null,
+        "labname": "ALL_Prescribed Meds and Special Instructions",
+        "tests": null
+      },
+      {
+        "dos": "08/29/2017",
+        "category": null,
+        "description": null,
+        "labname": "ImmunoCAP Respiratory Panel",
+        "tests": null
+      },
+      {
+        "dos": "08/29/2017",
+        "category": null,
+        "description": null,
+        "labname": "OnkoSight Lung Panel + ALK and ROS1 by FISH",
+        "tests": null
+      },
+      {
+        "dos": "08/18/2017",
+        "category": null,
+        "description": null,
+        "labname": "ALL_Record Point Of Care 11-12-13 Panel, ALL_Record Point Of Care 6 Panel, PGT_ALL GENERAL INFO, Consolidated results - Genetic testing",
+        "tests": null
+      },
+      {
+        "dos": "08/18/2017",
+        "category": null,
+        "description": null,
+        "labname": "CBC & PLT, ANAEROBIC CULTURE, BASIC METABOLIC PANEL",
+        "tests": null
+      },
+      {
+        "dos": "06/22/2017",
+        "category": null,
+        "description": null,
+        "labname": "BERYLLIUM,URINE",
+        "tests": null
+      },
+      {
+        "dos": "06/22/2017",
+        "category": null,
+        "description": null,
+        "labname": "LIPID PANEL, ROSH PERSIAN PANEL 2588 (COUNSYL), PAP W/HR HPV,CT/GC",
+        "tests": null
+      },
+      {
+        "dos": "06/22/2017",
+        "category": null,
+        "description": null,
+        "labname": "ALPHA FETOPROTEIN (AFP), MATERNAL SCREEN, ALPHA FETOPROTEIN (AFP), TRIPLE SCREEN",
+        "tests": null
+      }
+    ]
+  },
+  "previsit_summary": {
+    "first_name": "TEST K",
+    "last_name": "Apple",
+    "dob": "03/01/1999",
+    "insurance": "AETNA (Self)",
+    "current_icds": [
+      {
+        "code": "K21.9",
+        "description": "Gastro-esophageal reflux disease without esophagitis"
+      },
+      {
+        "code": "I10",
+        "description": "Essential (primary) hypertension"
+      },
+      {
+        "code": "J04.0",
+        "description": "Acute laryngitis"
+      },
+      {
+        "code": "Z00.00",
+        "description": "Encntr for general adult medical exam w/o abnormal findings"
+      },
+      {
+        "code": "Z68.25",
+        "description": "Body mass index [BMI] 25.0-25.9, adult"
+      }
+    ],
+    "historical_icds": [
+      {
+        "code": "Z68.25",
+        "description": "Body mass index [BMI] 25.0-25.9, adult"
+      },
+      {
+        "code": "Z00.00",
+        "description": "Encntr for general adult medical exam w/o abnormal findings"
+      },
+      {
+        "code": "J04.0",
+        "description": "Acute laryngitis"
+      },
+      {
+        "code": "K21.9",
+        "description": "Gastro-esophageal reflux disease without esophagitis"
+      },
+      {
+        "code": "I10",
+        "description": "Essential (primary) hypertension"
+      },
+      {
+        "code": "A01.00",
+        "description": "Typhoid fever, unspecified"
+      },
+      {
+        "code": "A01.2",
+        "description": "ParaFever B"
+      },
+      {
+        "code": "C91.51",
+        "description": "Cholera due to Vibrio cholerae 01, biovar eltor"
+      },
+      {
+        "code": "N27.0",
+        "description": "Small kidney, unilateral"
+      },
+      {
+        "code": "N22",
+        "description": "Calculus of urinary tract in diseases classified e"
+      },
+      {
+        "code": "K22.3",
+        "description": "Perforation of esophagus"
+      },
+      {
+        "code": "Z13.31",
+        "description": "Encounter for screening for depression"
+      },
+      {
+        "code": "C22.8",
+        "description": "Malignant neoplasm of liver, primary, unspecified"
+      },
+      {
+        "code": "D64.9",
+        "description": "*Anemia, unspecified"
+      },
+      {
+        "code": "H52.11",
+        "description": "*Myopia, right eye"
+      },
+      {
+        "code": "G30.9",
+        "description": "Alzheimer's disease, unspecified"
+      },
+      {
+        "code": "E08.40",
+        "description": "Diabetes due to underlying condition w diabetic ne"
+      },
+      {
+        "code": "B37.41",
+        "description": "Candidal cystitis and urethritis"
+      },
+      {
+        "code": "A01.05",
+        "description": "Typhoid osteomyelitis"
+      },
+      {
+        "code": "A01.02",
+        "description": "Typhoid fever with heart involvement"
+      },
+      {
+        "code": "A02.0",
+        "description": "Salmonella enteritis"
+      },
+      {
+        "code": "L04.0",
+        "description": "*Acute lymphadenitis of face, head and neck"
+      },
+      {
+        "code": "K59.04",
+        "description": "Chronic idiopathic constipation"
+      },
+      {
+        "code": "M45.5",
+        "description": "Ankylosing spondylitis of thoracolumbar region"
+      },
+      {
+        "code": "F17.201",
+        "description": "Nicotine dependence, unspecified, in remission"
+      },
+      {
+        "code": "J10.00",
+        "description": "Flu due to oth ident flu virus w unsp type of pneu"
+      },
+      {
+        "code": "N30.80",
+        "description": "*Other cystitis without hematuria"
+      },
+      {
+        "code": "L30.0",
+        "description": "*Nummular dermatitis"
+      },
+      {
+        "code": "Z68.21",
+        "description": "Body mass index (BMI) 21.0-21.9, adult"
+      },
+      {
+        "code": "A02.22",
+        "description": "Salmonella pneumonia"
+      },
+      {
+        "code": "E08.00",
+        "description": "Diab d/t undrl cond w hyprosm w/o nonket hyprgly-h"
+      },
+      {
+        "code": "D86.9",
+        "description": "Sarcoidosis, unspecified"
+      },
+      {
+        "code": "Z13.9",
+        "description": "Encounter for screening, unspecified"
+      },
+      {
+        "code": "E11.9",
+        "description": "Type 2 diabetes mellitus without complications"
+      },
+      {
+        "code": "Z68.28",
+        "description": "Body mass index (BMI) 28.0-28.9, adult"
+      },
+      {
+        "code": "F17.200",
+        "description": "Nicotine dependence, unspecified, uncomplicated"
+      },
+      {
+        "code": "Z71.6",
+        "description": "Tobacco abuse counseling"
+      },
+      {
+        "code": "L20.9",
+        "description": "Atopic dermatitis, unspecified"
+      },
+      {
+        "code": "A06.5",
+        "description": "Amebic lung abscess"
+      },
+      {
+        "code": "A01.1",
+        "description": "Paratyphoid fever A"
+      },
+      {
+        "code": "J45.20",
+        "description": "Mild intermittent asthma, uncomplicated"
+      },
+      {
+        "code": "F01.50",
+        "description": "Vascular dementia without behavioral disturbance"
+      },
+      {
+        "code": "A20.3",
+        "description": "Plague meningitis"
+      },
+      {
+        "code": "A20.2",
+        "description": "Pneumonic plague"
+      },
+      {
+        "code": "A38.8",
+        "description": "Scarlet fever with other complications"
+      },
+      {
+        "code": "B10.01",
+        "description": "Human herpesvirus 6 encephalitis"
+      },
+      {
+        "code": "B01.11",
+        "description": "Varicella encephalitis and encephalomyelitis"
+      },
+      {
+        "code": "E05.90",
+        "description": "*Thyrotoxicosis, unsp without thyrotoxic crisis or"
+      },
+      {
+        "code": "C50.911",
+        "description": "*Malignant neoplasm of unsp site of right female b"
+      },
+      {
+        "code": "M45.0",
+        "description": "Ankylosing spondylitis of multiple sites in spine"
+      },
+      {
+        "code": "R10.11",
+        "description": "Right upper quadrant pain"
+      },
+      {
+        "code": "C18.7",
+        "description": "Malignant neoplasm of sigmoid colon"
+      },
+      {
+        "code": "C18.0",
+        "description": "Malignant neoplasm of cecum"
+      },
+      {
+        "code": "B37.81",
+        "description": "Candidal esophagitis"
+      },
+      {
+        "code": "A26.7",
+        "description": "Erysipelothrix sepsis"
+      },
+      {
+        "code": "A22.7",
+        "description": "Anthrax sepsis"
+      },
+      {
+        "code": "A43.0",
+        "description": "Pulmonary nocardiosis"
+      },
+      {
+        "code": "I20",
+        "description": "Angina pectoris"
+      },
+      {
+        "code": "J45.31",
+        "description": "Mild persistent asthma with (acute) exacerbation"
+      },
+      {
+        "code": "Z00.00",
+        "description": "Encntr for general adult medical exam w/o abnormal"
+      },
+      {
+        "code": "Z68.31",
+        "description": "Body mass index (BMI) 31.0-31.9, adult"
+      },
+      {
+        "code": "Z23",
+        "description": "Encounter for immunization"
+      },
+      {
+        "code": "D50.8",
+        "description": "Other iron deficiency anemias"
+      },
+      {
+        "code": "F93.0",
+        "description": "Separation anxiety disorder of childhood"
+      },
+      {
+        "code": "T24.292A",
+        "description": "Burn 2nd deg mul sites of left lower limb, ex ank/"
+      },
+      {
+        "code": "T24.191A",
+        "description": "Burn 1st deg mult sites of right lower limb, ex an"
+      },
+      {
+        "code": "E11.65",
+        "description": "Type 2 diabetes mellitus with hyperglycemia"
+      },
+      {
+        "code": "B20",
+        "description": "Human immunodeficiency virus [HIV] disease"
+      },
+      {
+        "code": "L70.0",
+        "description": "Acne vulgaris"
+      },
+      {
+        "code": "J30.0",
+        "description": "Vasomotor rhinitis"
+      },
+      {
+        "code": "D50.1",
+        "description": "Sideropenic dysphagia"
+      }
+    ],
+    "last_3visit_history": [
+      {
+        "date": "10/09/2025",
+        "icds": [
+          {
+            "code": "K21.9",
+            "description": "Gastro-esophageal reflux disease without esophagitis"
+          },
+          {
+            "code": "I10",
+            "description": "Essential (primary) hypertension"
+          },
+          {
+            "code": "J04.0",
+            "description": "Acute laryngitis"
+          },
+          {
+            "code": "Z00.00",
+            "description": "Encntr for general adult medical exam w/o abnormal findings"
+          },
+          {
+            "code": "Z68.25",
+            "description": "Body mass index [BMI] 25.0-25.9, adult"
+          }
+        ],
+        "cpts": [
+          {
+            "code": "99213",
+            "description": "updated name"
+          },
+          {
+            "code": "99369",
+            "description": "PREV VISIT EST AGE 40-64"
+          },
+          {
+            "code": "11111",
+            "description": "test_cpds"
+          },
+          {
+            "code": "99396",
+            "description": "PREV VISIT EST AGE 40-64"
+          },
+          {
+            "code": "G0442",
+            "description": "Annual alcohol screen 15 min"
+          },
+          {
+            "code": "1000F",
+            "description": "TOBACCO USE ASSESSED"
+          }
+        ]
+      },
+      {
+        "date": "06/13/2025",
+        "icds": [
+          {
+            "code": "A01.2",
+            "description": "ParaFever B"
+          },
+          {
+            "code": "A01.00",
+            "description": "Typhoid fever, unspecified"
+          }
+        ],
+        "cpts": [
+          {
+            "code": "99306",
+            "description": "1ST NF CARE HIGH MDM 50"
+          },
+          {
+            "code": "30801",
+            "description": "ABLATE INF TURBINATE SUPERF"
+          }
+        ]
+      },
+      {
+        "date": "08/24/2023",
+        "icds": [
+          {
+            "code": "C91.51",
+            "description": "Cholera due to Vibrio cholerae 01, biovar eltor"
+          }
+        ],
+        "cpts": [
+          {
+            "code": "98926",
+            "description": "OSTEOPATH MANJ 3-4 REGIONS"
+          }
+        ]
+      }
+    ],
+    "last_blood_work_date": "01/03/2019",
+    "last_ekg_date": "03/25/2020",
+    "calendar_year_icd_cpt_codes": {
+      "06/13/2025": {
+        "icd_code_list": [
+          "A01.00",
+          "A01.2"
+        ],
+        "cpt_code_list": [
+          "30801",
+          "99306"
+        ]
+      },
+      "10/09/2025": {
+        "icd_code_list": [
+          "Z68.25",
+          "Z00.00",
+          "J04.0",
+          "K21.9",
+          "I10"
+        ],
+        "cpt_code_list": [
+          "99213",
+          "1000F",
+          "99396",
+          "99369",
+          "11111",
+          "G0442"
+        ]
+      }
+    }
+  }
+}
