@@ -1,0 +1,135 @@
+{
+    "reason_for_visit": [
+        "Nasal pain evaluation",
+        "Cough, runny nose, stuffy nose, SOB and body ache for 5 days"
+    ],
+    "history_of_present_illness": "Patient presents with nasal pain for the last three days, described as pain inside the nose. Denies any peripheral pain, such as around the cheeks or eyes, and no headaches. Reports occasional shortness of breath without a specific pattern or trigger.",
+    "review_of_systems": [
+        "Constitutional: No fever, chills, or fatigue.",
+        "Eye: No blurred vision or eye pain.",
+        "ENT: Nasal pain inside the nose, no sore throat or ear pain.",
+        "Cardiovascular: No chest pain or palpitations.",
+        "Respiratory: Occasional shortness of breath, no wheezing or cough.",
+        "GI: No abdominal pain, nausea, vomiting, or diarrhea.",
+        "GU: No dysuria, frequency, or hematuria.",
+        "Musculoskeletal: No joint pain, muscle aches, or stiffness.",
+        "Skin: No new rashes, lesions, or itching.",
+        "Neurological: No headaches, dizziness, or numbness/tingling.",
+        "Psychiatric: No anxiety, depression, or sleep disturbances."
+    ],
+    "physical_exam": [
+        "General: Well-developed, well-nourished, no acute distress.",
+        "Head: Normocephalic, atraumatic.",
+        "Eyes: PERRL, EOMI, sclerae anicteric.",
+        "ENT: Tenderness inside the nose, oropharynx clear.",
+        "Neck: Supple, no lymphadenopathy, no thyromegaly.",
+        "Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.",
+        "Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.",
+        "Abdomen: Soft, non-tender, non-distended, bowel sounds active.",
+        "Musculoskeletal: Normal range of motion, no edema or tenderness.",
+        "Skin: Warm, dry, intact, no suspicious rashes.",
+        "Neurological: Alert and oriented x3, gross motor/sensory intact.",
+        "Psychiatric: Normal mood and affect, judgment intact."
+    ],
+    "icd_codes": [
+        "J01.90",
+        "R06.02"
+    ],
+"assessment": [
+    {
+        "icd_code": "J01.90 (Acute sinusitis, unspecified)",
+        "assessment_plan": "Patient diagnosed with acute sinusitis. Prescribed medication to alleviate symptoms. Advised to monitor symptoms and return if no improvement in a few days."
+    },
+    {
+        "icd_code": "R06.02 (Shortness of breath)",
+        "assessment_plan": "Occasional shortness of breath noted. No specific pattern or trigger identified. Advised to monitor and report any changes or worsening of symptoms."
+    }
+],
+    "cpt_codes": [
+        "99213",
+        "99406"
+    ],
+
+        "sorted_icd_codes": [
+            "J04.0",
+            "J06.9",
+            "Z00.01",
+            "Z71.3",
+            "Z71.89",
+            "Z13.89"
+        ],
+        "sorted_cpt_codes": [
+            "99213",
+            "99396",
+            "G0442",
+            "G0136",
+            "36415",
+            "3016F",
+            "G9275"
+        ],
+    "linkicd_icd_with_cpt_data": [
+        {
+            "cpt_code": "99396",
+            "linked_icd": [
+                "Z00.01",
+                "Z71.3",
+                "Z71.89"
+            ],
+            "modifier": ""
+        },
+        {
+            "cpt_code": "G0442",
+            "linked_icd": [
+                "Z13.89"
+            ],
+            "modifier": "59"
+        },
+        {
+            "cpt_code": "G0136",
+            "linked_icd": [
+                "J04.0",
+                "J06.9"
+            ],
+            "modifier": ""
+        },
+        {
+            "cpt_code": "36415",
+            "linked_icd": [
+                "J04.0",
+                "J06.9"
+            ],
+            "modifier": ""
+        },
+        {
+            "cpt_code": "3016F",
+            "linked_icd": [
+                "Z13.89"
+            ],
+            "modifier": ""
+        },
+        {
+            "cpt_code": "G9275",
+            "linked_icd": [
+                "J04.0",
+                "J06.9",
+                "Z00.01",
+                "Z71.3",
+                "Z71.89",
+                "Z13.89"
+            ],
+            "modifier": ""
+        }
+    ],
+    "deleted": {
+        "icd": [],
+        "cpt": [
+            "1158F",
+            "1126F",
+            "1170F",
+            "1157F",
+            "1160F",
+            "1159F"
+        ]
+    }
+}         
+
